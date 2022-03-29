@@ -18,6 +18,9 @@
     <ClCompile Include="mystack.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="myqueue.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="memo.txt">
@@ -29,5 +32,10 @@
     <Text Include="output.txt">
       <Filter>소스 파일</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="selection.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

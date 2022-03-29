@@ -12,4 +12,7 @@ stack
 
 6. pop				index >= 0? N
 					"empty"
-					
+			
+queue
+1. บ๓ queue.		index = -1
+2. ตฅภฬลอ1 insert,	index

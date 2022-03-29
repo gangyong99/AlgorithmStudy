@@ -1,5 +1,7 @@
-/*<처리조건>
 
+#include"selection.h"
+#ifdef stack
+/*<처리조건>
 주어진 명령은 다음의 3가지이다.
 1. "i a"는 a라는 수를 스택에 넣는다.이때, a는 10, 000 이하의 자연수이다.
 2. "o"는 스택에서 데이터를 빼고, 그 데이터를 출력한다.만약 스택이 비어있으면, "empty"를 출력한다.
@@ -21,21 +23,21 @@ int pop() {
 	}
 }
 void each_case() {
-	int insert_var, pop_var;
+	int insert_val, pop_val;
 	scanf("%c ",&cmd);
 	//printf("cmd = %c \n", cmd);
 
 	if (cmd == 'i') {
-		scanf("%d\n",&insert_var);
-		push(insert_var);
+		scanf("%d\n",&insert_val);
+		push(insert_val);
 	}
 	else if(cmd == 'o') {
-		pop_var = pop();
-		if (pop_var == -1) {
+		pop_val = pop();
+		if (pop_val == -1) {
 			printf("empty\n");
 		}
 		else {
-			printf("%d\n", pop_var);
+			printf("%d\n", pop_val);
 		}
 	}
 	else if (cmd == 'c') {
@@ -61,3 +63,4 @@ int main() {
 		}
 	}
 }
+#endif
