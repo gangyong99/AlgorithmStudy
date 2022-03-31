@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="insertion_sort.cpp" />
     <ClCompile Include="myqueue.cpp" />
     <ClCompile Include="mystack.cpp" />
     <ClCompile Include="selection_sort.cpp" />
