@@ -1,5 +1,4 @@
-stack
-
+<stack>
 1. 빈 stack,		index = -1
 2. 데이터1 insert,	index = index + 1 = 0,  stack[index] = 데이터1
 3. 데이터2 insert,	index = index + 1 = 1,  stack[index] = 데이터2 
@@ -13,6 +12,8 @@ stack
 6. pop				index >= 0? N
 					"empty"
 			
-queue
+<queue>
 1. 빈 queue.		index = -1
 2. 데이터1 insert,	index
+
+<selection sort>

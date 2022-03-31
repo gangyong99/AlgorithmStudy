@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="myqueue.cpp" />
     <ClCompile Include="mystack.cpp" />
+    <ClCompile Include="selection_sort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
