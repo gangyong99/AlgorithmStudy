@@ -4,4 +4,6 @@
 //#define selection_sort // 정올 selection sort 문제
 //#define insertion_sort // 정올 insertion sort 문제
 //#define bubble_sort // 정올 bubble sort 문제
-#define jungol2858
+//#define jungol2858
+//#define jungol1141
+#define jungol1328

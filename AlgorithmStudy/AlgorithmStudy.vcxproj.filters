@@ -33,6 +33,15 @@
     <ClCompile Include="jungol2858.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="jungol1141.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="jungol1328.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="jungol1328_시간초과.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="memo.txt">
