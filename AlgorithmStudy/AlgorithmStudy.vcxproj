@@ -145,6 +145,7 @@
     <ClCompile Include="jungol1328.cpp" />
     <ClCompile Include="jungol1328_시간초과.cpp" />
     <ClCompile Include="jungol2858.cpp" />
+    <ClCompile Include="jungol3521.cpp" />
     <ClCompile Include="myqueue.cpp" />
     <ClCompile Include="mystack.cpp" />
     <ClCompile Include="selection_sort.cpp" />

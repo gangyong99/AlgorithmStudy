@@ -1,4 +1,5 @@
 #include"selection.h"
+// Stack ¹®Á¦
 #ifdef jungol1328
 #include<stdio.h>
 int N;

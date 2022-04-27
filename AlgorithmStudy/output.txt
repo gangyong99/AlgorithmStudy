@@ -1,10 +1,11 @@
-3
-3
-10
-10
-7
-7
-10
-10
-10
-0
+goal-mass = 34, solve=0
+arr=3
+goal-mass = 10, solve=3
+arr=1
+goal-mass = 6, solve=1
+arr=2
+goal-mass = 2, solve=2
+in
+arr=3
+goal-mass = 0, solve=2
+8
